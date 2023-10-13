@@ -1,0 +1,11 @@
+.zealand-bg{
+   background-color: rgb(255, 255, 115);
+}
+
+.footer {
+   position: bottom;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+}
